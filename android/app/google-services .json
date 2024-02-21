@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "928984358544",
+    "project_id": "testriver-c7095",
+    "storage_bucket": "testriver-c7095.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928984358544:android:9d6df577f11dffa3b54215",
+        "android_client_info": {
+          "package_name": "com.example.test_application_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvvPZf3_LVrucZjfREThQDQC_TOJGJfCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
