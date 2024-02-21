@@ -47,8 +47,6 @@ class TaskController {
           'title': newTask.title,
           'task': newTask.task,
         });
-
-    // Notify listeners after updating a task
     _reader(tasksProvider).remove(oldTask);
     _reader(tasksProvider).add(newTask);
   } catch (e) {

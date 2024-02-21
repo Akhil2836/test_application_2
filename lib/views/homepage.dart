@@ -132,7 +132,7 @@ class HomePage extends ConsumerWidget {
                           print("Task added");
                           titlecontroller.clear();
                           taskcontroller.clear();
-                          Navigator.pop(context); // Close the bottom sheet
+                          Navigator.pop(context); 
                           print("Navigation completed");
                         },
                         child: Text("Create Task"),
